@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">hesapnakinesi</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="no1">1</string>
+    <string name="no2">2</string>
+    <string name="no3">3</string>
+    <string name="no4">4</string>
+    <string name="no5">5</string>
+
+</resources>
